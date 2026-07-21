@@ -13,7 +13,6 @@ const navItems: { id: View; label: string; icon: typeof Users }[] = [
   { id: 'seans', label: 'Seanslar', icon: Video },
   { id: 'analiz', label: 'Analiz', icon: Activity },
   { id: 'raporlar', label: 'Raporlar', icon: FileText },
-  { id: 'admin', label: 'Admin', icon: ShieldCheck },
 ]
 
 export function Sidebar({
