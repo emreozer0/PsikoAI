@@ -1,0 +1,31 @@
+# --- Backend (Python) ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+.env.*
+instance/
+*.sqlite3
+*.db
+
+# --- Frontend (Node) ---
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+.env.local
+.env.development.local
+.env.production.local
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+npm-debug.log*
