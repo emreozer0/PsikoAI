@@ -1,6 +1,32 @@
 # PsikoAI
 
-Terapistler için hasta takibi, seans analizi ve AI destekli formülasyon üretimi sağlayan uygulama.
+PsikoAI, terapistlerin danışan seanslarını kaydetmesine, yapay zeka destekli analiz 
+ve formülasyon raporları oluşturmasına, hasta geçmişini takip etmesine ve seans 
+sürecini daha verimli yönetmesine yardımcı olan bir platformdur.
+
+Seans kayıtları otomatik olarak transkribe edilir, AI ile analiz edilerek terapiste 
+klinik formülasyon önerileri sunulur — böylece terapistler idari işlere daha az, 
+danışanlarına daha çok zaman ayırabilir.
+
+## Özellikler
+
+- 🎙️ Seans kayıtlarının otomatik transkripsiyonu
+- 🤖 AI destekli klinik formülasyon ve analiz üretimi
+- 👥 Hasta/danışan yönetimi
+- 📊 Terapist ve admin panelleri
+- 🔐 Güvenli kimlik doğrulama (JWT)
+
+---
+
+## Özellikler
+
+- 🎙️ Seans kayıtlarının otomatik transkripsiyonu
+- 🤖 AI destekli klinik formülasyon ve analiz üretimi
+- 👥 Hasta/danışan yönetimi
+- 📊 Terapist ve admin panelleri
+- 🔐 Güvenli kimlik doğrulama (JWT)
+
+---
 
 ## Proje Yapısı
 
